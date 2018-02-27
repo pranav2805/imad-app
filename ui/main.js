@@ -5,5 +5,5 @@ element.innerHTML='New value';
 
 var img = documnet.getElementById("madi"); 
  img.onclick=function(){
-     img.style.marginLeft='100';
+     img.style.marginLeft='100px';
  };
